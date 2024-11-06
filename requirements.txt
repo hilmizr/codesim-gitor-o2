@@ -1,0 +1,10 @@
+pandas
+gensim
+torch
+networkx
+matplotlib
+javalang
+numpy
+psutil
+scikit-learn
+node2vec
